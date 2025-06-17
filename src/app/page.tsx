@@ -339,7 +339,7 @@ export default function Home() {
                         <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">Get In Touch</h2>
                         <div className="w-24 h-1 bg-blue-600 dark:bg-white mx-auto"></div>
                         <p className="text-gray-600 dark:text-gray-300 mt-4">
-                            I'm always interested in new opportunities and exciting projects.
+                            I&apos;m always interested in new opportunities and exciting projects.
                         </p>
                     </motion.div>
 
