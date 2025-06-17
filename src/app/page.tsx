@@ -165,7 +165,7 @@ export default function Home() {
                             <h4 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Education</h4>
                             <div className="space-y-3 mb-6">
                                 <div className="bg-blue-50 dark:bg-gray-800 p-4 rounded-lg border border-blue-200 dark:border-gray-600">
-                                    <p className="font-semibold text-gray-900 dark:text-white">Master's degree of Science, Computer Science</p>
+                                    <p className="font-semibold text-gray-900 dark:text-white">Master&rsquo;s degree of Science, Computer Science</p>
                                     <p className="text-blue-600 dark:text-blue-300">Asia Euro University (August - Present)</p>
                                 </div>
                                 <div className="bg-purple-50 dark:bg-gray-800 p-4 rounded-lg border border-purple-200 dark:border-gray-600">
