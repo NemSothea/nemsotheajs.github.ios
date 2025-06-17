@@ -153,12 +153,12 @@ export default function Home() {
                                 Who I Am
                             </h3>
                             <p className="text-gray-600 dark:text-gray-300 mb-4">
-                                Hello! I'm <strong className="text-blue-600 dark:text-blue-300">Nem Sothea</strong> from Phnom Penh, Cambodia. I love creating impactful mobile experiences
+                                Hello! I&apos;m <strong className="text-blue-600 dark:text-blue-300">Nem Sothea</strong> from Phnom Penh, Cambodia. I love creating impactful mobile experiences
                                 and leading teams to produce high-quality iOS applications. My journey in technology has taken me from
                                 hands-on development to mentoring and guiding others.
                             </p>
                             <p className="text-gray-600 dark:text-gray-300 mb-6">
-                                I'm always focused on innovation and collaboration, specializing in enterprise iOS app architecture,
+                                I&apos;m always focused on innovation and collaboration, specializing in enterprise iOS app architecture,
                                 modern UI implementation, and team growth and mentoring.
                             </p>
 
