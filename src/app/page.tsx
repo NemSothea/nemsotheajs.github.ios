@@ -350,7 +350,7 @@ export default function Home() {
                     >
                         <div className="bg-gray-50 dark:bg-gray-900 rounded-2xl p-8 border border-gray-200 dark:border-gray-700">
                             <h3 className="text-2xl font-semibold text-gray-900 dark:text-white mb-6">
-                                Let's Connect
+                                Let&apos;s Connect
                             </h3>
                             <div className="space-y-4">
                                 <div className="flex items-center gap-4">
